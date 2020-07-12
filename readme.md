@@ -2,6 +2,8 @@
 
 hrms是一个人力资源管理系统，本人主要负责后台的开发工作
 
+[在线访问地址](https://ourhrms.tk/index.html)
+
 ### To do list
 
 -  ~~剥离出发送邮件服务的功能，使用rabbitMQ替换负责发送邮件服务的异步线程~~
